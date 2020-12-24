@@ -1,9 +1,9 @@
-## Welcome to My Site
+## Welcome!
 
 Hello world :)
 
 ### Podcast
-[Here is the podcast](https://anchor.fm/s/2aa384a8/podcast/rss) where we host to discuss our lessons learned after stuying and working in the U.S. for ~10 years.
+[Here is the podcast](https://anchor.fm/a-bouquet-of-arguments) where we host to discuss our lessons learned after stuying and working in the U.S. for ~10 years.
 
 
 ### Tech Portfolio
